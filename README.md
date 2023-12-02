@@ -8,7 +8,7 @@ https://azure.microsoft.com/ja-jp/products/visual-studio-code
 
 # install Extentions powershell command
  
-```powershell:install-ext.ps
+```powershell
 #Python 
 code --install-extension ms-python.python 
  
@@ -18,6 +18,9 @@ code --list-extensions jebbs.plantuml
 #ascii doc 
 asciidoctor.asciidoctor-vscode 
 ``` 
+
 # Show Install Extensions powershell command 
 
-`code --list-extensions` 
+```powershell
+code --list-extensions
+``` 
