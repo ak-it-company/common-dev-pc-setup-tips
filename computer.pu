@@ -1,0 +1,34 @@
+@startuml
+
+node computer {
+
+    folder "program folder" {
+
+    }
+
+    component vscode{
+        component vscode-extnsions{
+
+        }
+    }
+
+    component python{
+        component python-library{
+
+        }
+    }
+
+    component git-tool{
+
+    }
+}
+
+cloud git {
+
+}
+
+"git-tool" -> git
+"program folder" -> "git-tool"
+python -> "program folder"
+
+@enduml
