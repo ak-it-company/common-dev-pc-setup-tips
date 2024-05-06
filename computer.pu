@@ -12,7 +12,7 @@ node computer {
         }
     }
 
-    component python{
+    component "python\n(virtual-environment)" as python{
         component python-library{
 
         }
