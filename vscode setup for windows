@@ -1,15 +1,17 @@
 # vscode setup for windows
 # vscode セットアップ(Windows)
 
-# install 
- 
-download & install 
+# download & install 
+# ダウンロード・インストールする
 
+1. open url & donwload
 https://azure.microsoft.com/ja-jp/products/visual-studio-code 
+
+2. run setup 
 
 # install Extentions powershell command
 # 拡張をインストールする(powershell)
- 
+
 ```powershell
 #Python 
 code --install-extension ms-python.python 
