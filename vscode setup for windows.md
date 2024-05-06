@@ -1,13 +1,13 @@
 # vscode setup for windows
 
-# download & install 
+## 1.download & install 
 
-1. open url & donwload
+(1). open url & donwload
 [Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code ) 
 
-2. run setup 
+(2). run setup 
 
-# install Extentions powershell command
+## 2.install Extentions powershell command
 
 ```powershell
 #Python 
@@ -20,7 +20,7 @@ code --list-extensions jebbs.plantuml
 asciidoctor.asciidoctor-vscode 
 ``` 
 
-# Show Install Extensions powershell command 
+## 3.Show Install Extensions powershell command 
 
 ```powershell
 code --list-extensions
