@@ -1,4 +1,5 @@
-# system development computer overview & setup tips システム開発用 PC設定とセットアップtips 
+# system development computer overview & setup tips
+システム開発用 PC設定とセットアップtips 
  
 computer overview 
 
